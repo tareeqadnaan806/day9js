@@ -1,6 +1,6 @@
 # day9js
 
-hosted link: 
+hosted link: https://tareeqadnaan806.github.io/day9js/
 
 This is my day 9 assignment where i have created a dropdown menu and by selecting the options in dropdown menu we have to change the css properties to a div
 
